@@ -7,7 +7,7 @@
 	"url": "/maps/cache",
 	"items": [
 		{
-			"video": "dQw4w9WgXcQ",
+			"video": "RP1f6_0KGG8",
 			"type": "Smoke",
 			"location": {
 				"from": "T Spawn",
@@ -16,21 +16,129 @@
 			}
 		},
 		{
-			"video": "dQw4w9WgXcQ",
+			"video": "E1G2BhHX4SU",
 			"type": "Smoke",
 			"location": {
-				"from": "Tree room",
-				"to": "Sun room",
+				"from": "T Spawn",
+				"to": "White Box",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "FH4bT84IWgI",
+			"type": "Smoke",
+			"location": {
+				"from": "A Main",
+				"to": "A Cross",
+				"area": "A"
+			}
+		},
+		{
+			"video": "bupjqBSit1w",
+			"type": "Smoke",
+			"location": {
+				"from": "Sun room",
+				"to": "Tree room",
 				"area": "B"
 			}
 		},
 		{
-			"video": "dQw4w9WgXcQ",
+			"video": "hYtZEx8xYPU",
 			"type": "Smoke",
 			"location": {
-				"from": "A Cross",
-				"to": "Connector / Z",
+				"from": "B Main",
+				"to": "Tree Room",
+				"area": "B"
+			}
+		},
+		{
+			"video": "OMJ1JF_Kj7I",
+			"type": "Smoke",
+			"location": {
+				"from": "Back of B Main",
+				"to": "B Main",
+				"area": "B"
+			}
+		},
+		{
+			"video": "4NtBO9MdJnw",
+			"type": "Smoke",
+			"location": {
+				"from": "Garage",
+				"to": "Right Wall Smoke",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "0UptFSDnMrs",
+			"type": "Smoke",
+			"location": {
+				"from": "Garage",
+				"to": "Left Wall Smoke",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "UtRBDMjabYY",
+			"type": "Smoke",
+			"location": {
+				"from": "Front of Car",
+				"to": "A Main",
 				"area": "A"
+			}
+		},
+		{
+			"video": "g-XwPFTtKbM",
+			"type": "Smoke",
+			"location": {
+				"from": "Back of Car",
+				"to": "A Main",
+				"area": "A"
+			}
+		},
+		{
+			"video": "30ZNB97OqNc",
+			"type": "Smoke",
+			"location": {
+				"from": "Heaven",
+				"to": "B Main",
+				"area": "B"
+			}
+		},
+		{
+			"video": "eD-b0CUepig",
+			"type": "Smoke",
+			"location": {
+				"from": "Connector",
+				"to": "Garage",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "GVDPhFpn5SE",
+			"type": "Smoke",
+			"location": {
+				"from": "Quad",
+				"to": "A Main",
+				"area": "A"
+			}
+		},
+		{
+			"video": "ln5hufx9AXM",
+			"type": "Smoke",
+			"location": {
+				"from": "NBK",
+				"to": "A Main",
+				"area": "A"
+			}
+		},
+		{
+			"video": "EGsdbhxWjNo",
+			"type": "Smoke",
+			"location": {
+				"from": "Heaven",
+				"to": "Checkers",
+				"area": "B"
 			}
 		}
 	]
