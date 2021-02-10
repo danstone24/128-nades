@@ -15,6 +15,7 @@
 		</main>
 
 		<site-footer
+			class="mt-12"
 			v-bind="$data.global"
 		/>
 	</div>
