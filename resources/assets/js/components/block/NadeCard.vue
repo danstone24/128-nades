@@ -11,10 +11,6 @@
 		</div>
 
 		<div class="flex flex-col mt-5 space-y-2 font-light">
-			<p>area: <span class="font-bold text-brand-primary" v-text="location.area" /></p>
-
-			<p>type: <span class="font-bold text-brand-primary" v-text="type" /></p>
-
 			<p>from: <span class="font-bold text-brand-primary" v-text="location.from" /></p>
 
 			<p>to:  <span class="font-bold text-brand-primary" v-text="location.to" /></p>
