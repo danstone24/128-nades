@@ -5,5 +5,123 @@
 		"alt": "de_mirage"
 	},
 	"url": "/maps/mirage",
-	"items": []
+	"items": [
+		{
+			"video": "0oyn-MO0GtQ",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "CT",
+				"area": "A"
+			}
+		},
+		{
+			"video": "Z0sZxqUjI2U",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Stairs",
+				"area": "A"
+			}
+		},
+		{
+			"video": "80lMnWBmoOo",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Jungle",
+				"area": "A"
+			}
+		},
+		{
+			"video": "oQZDlKmTgFw",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Top mid",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "MtRLzk4wfhk",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Window",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "CjPDqEa3Hvk",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Left Arch",
+				"area": "B"
+			}
+		},
+		{
+			"video": "CjPDqEa3Hvk",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Left Arch",
+				"area": "B"
+			}
+		},
+		{
+			"video": "lObxHCQfzTQ",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Right Arch",
+				"area": "B"
+			}
+		},
+		{
+			"video": "rXoZZK4XNBg",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Bench",
+				"area": "B"
+			}
+		},
+		{
+			"video": "12Khe5uh78g",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Apartments",
+				"area": "B"
+			}
+		},
+		{
+			"video": "k0a7U-w-0BY",
+			"type": "Smoke",
+			"location": {
+				"from": "Back Alley",
+				"to": "Kitchen Window",
+				"area": "B"
+			}
+		},
+		{
+			"video": "6u8MUHCwgU8",
+			"type": "Smoke",
+			"location": {
+				"from": "Tetris",
+				"to": "CT",
+				"area": "A"
+			}
+		},
+		{
+			"video": "lUcbPoul14c",
+			"type": "Smoke",
+			"location": {
+				"from": "Kitchen",
+				"to": "Palace",
+				"area": "A"
+			}
+		}
+	]
 }
