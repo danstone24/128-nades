@@ -1,6 +1,7 @@
 # NuxtJS Baseplate
 
-NuxtJS Baseplate starter project.
+Nades you can learn in seconds.
+Now you have no excuse not to know that smoke.
 
 ## Setup
 
