@@ -1,0 +1,9 @@
+{
+	"title": "Overpass",
+	"img": {
+		"src": "/static/img/maps/overpass.jpg",
+		"alt": "de_overpass"
+	},
+	"url": "/maps/overpass",
+	"items": []
+}

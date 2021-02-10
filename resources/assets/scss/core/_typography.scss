@@ -1,0 +1,72 @@
+$h--1: (
+	base: '4xl',
+	md: '5xl',
+	xl: '6xl',
+);
+
+$h--2: (
+	base: '3xl',
+	md: '4xl',
+	xl: '5xl',
+);
+
+$h--3: (
+	base: '2xl',
+	md: '3xl',
+	xl: '4xl',
+);
+
+$h--4: (
+	base: 'xl',
+	md: '2xl',
+	xl: '3xl',
+);
+
+$h--5: (
+	base: 'lg',
+	md: 'xl',
+	xl: '2xl',
+);
+
+$h--6: (
+	base: 'base',
+	md: 'lg',
+	xl: 'xl',
+);
+
+.x-h1,
+.x-h2,
+.x-h3,
+.x-h4,
+.x-h5,
+.x-h6 {
+	@apply font-bold font-heading leading-none;
+
+	a {
+		@apply font-bold;
+	}
+}
+
+.x-h1 {
+	@include font-size($h--1);
+}
+
+.x-h2 {
+	@include font-size($h--2);
+}
+
+.x-h3 {
+	@include font-size($h--3);
+}
+
+.x-h4 {
+	@include font-size($h--4);
+}
+
+.x-h5 {
+	@include font-size($h--5);
+}
+
+.x-h6 {
+	@include font-size($h--6);
+}

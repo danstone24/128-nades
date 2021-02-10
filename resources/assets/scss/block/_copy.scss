@@ -1,0 +1,56 @@
+.x-copy {
+	@apply max-w-copy;
+
+	> * {
+		@apply mt-em;
+
+		&:first-child {
+			@apply mt-0;
+		}
+	}
+
+	h1 {
+		@extend .x-h1;
+	}
+
+	h2 {
+		@extend .x-h2;
+	}
+
+	h3 {
+		@extend .x-h3;
+	}
+
+	h4 {
+		@extend .x-h4;
+	}
+
+	h5 {
+		@extend .x-h5;
+	}
+
+	h6 {
+		@extend .x-h6;
+	}
+
+	ol,
+	ul {
+		@apply mx-5;
+
+		> li {
+			@apply mt-em;
+
+			&:first-child {
+				@apply mt-0;
+			}
+		}
+	}
+
+	ol {
+		@apply list-decimal;
+	}
+
+	ul {
+		@apply list-disc;
+	}
+}

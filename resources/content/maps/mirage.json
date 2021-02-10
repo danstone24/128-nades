@@ -1,0 +1,9 @@
+{
+	"title": "Mirage",
+	"img": {
+		"src": "/static/img/maps/mirage.jpg",
+		"alt": "de_mirage"
+	},
+	"url": "/maps/mirage",
+	"items": []
+}

@@ -1,0 +1,8 @@
+# _site
+/node_modules
+# /vendor
+# npm-debug.log
+# yarn-error.log
+dist
+.nuxt
+*.DS_Store

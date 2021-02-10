@@ -1,0 +1,9 @@
+{
+	"title": "Inferno",
+	"img": {
+		"src": "/static/img/maps/inferno.jpg",
+		"alt": "de_inferno"
+	},
+	"url": "/maps/inferno",
+	"items": []
+}

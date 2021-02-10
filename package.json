@@ -1,0 +1,28 @@
+{
+    "name": "baseplate-nuxt",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate",
+        "lint:js": "eslint --ext .vue --ignore-path .gitignore . -c build/.eslintrc",
+        "lint": "npm run lint:js"
+    },
+    "dependencies": {
+        "nuxt": "^2.14.7",
+        "vue-youtube-embed": "^2.2.2"
+    },
+    "devDependencies": {
+        "@nuxt/content": "^1.5.0",
+        "@nuxtjs/eslint-config": "^4.0.0",
+        "@nuxtjs/eslint-module": "^3.0.0",
+        "@nuxtjs/tailwindcss": "^3.2.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.12.0",
+        "eslint-plugin-nuxt": "^1.0.0",
+        "node-sass": "^4.14.1",
+        "sass-loader": "^10.0.4"
+    }
+}

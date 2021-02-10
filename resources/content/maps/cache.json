@@ -1,0 +1,37 @@
+{
+	"title": "Cache",
+	"img": {
+		"src": "/static/img/maps/cache.jpg",
+		"alt": "de_cache"
+	},
+	"url": "/maps/cache",
+	"items": [
+		{
+			"video": "dQw4w9WgXcQ",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Connector / Z",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "dQw4w9WgXcQ",
+			"type": "Smoke",
+			"location": {
+				"from": "Tree room",
+				"to": "Sun room",
+				"area": "B"
+			}
+		},
+		{
+			"video": "dQw4w9WgXcQ",
+			"type": "Smoke",
+			"location": {
+				"from": "A Cross",
+				"to": "Connector / Z",
+				"area": "A"
+			}
+		}
+	]
+}
